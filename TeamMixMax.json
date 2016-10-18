@@ -29,7 +29,7 @@
                }
             }
          ],
-         "program":"as principal admin password \"admin\" do\nset x = { f=\"alice\", g=\"bob\" }\nset y = \"another string\"\nset z = { f=x.f, g=y, h=x.g, i=\"constant\" }\nreturn z\n***\n"
+         "program":"as principal admin password \"admin\" do\nset x = { f=\"alice\", g=\"bob\" }\nset y = \"hacker1\"\nset z = { f=x.f, g=y, h=x.g, i=\"constant\" }\nreturn z\n***\n"
       },
       {  
          "output":[  
