@@ -1,8 +1,11 @@
 {  
+   "type": "security",
+   "target_team": 872,
    "arguments":{  
       "argv":[  
          "%PORT%"
-      ]
+      ],
+      "base64": false
    },
    "programs":[  
       {  
